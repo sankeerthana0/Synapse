@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Threat Intelligence System",
+  "description": "An interactive orchestrated threat routing system featuring RAG knowledge contexts, analysis, summarization, alerting agents, automated response evaluation, and functional API endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
